@@ -1,0 +1,15 @@
+{
+  "name": "riminder-nodejs-sdk",
+  "version": "0.0.1",
+  "description": "NodeJS wrapper SDK for Riminder.Net API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Souhail RAZZOUK <souhail.razzouk@hotmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.1.2",
+    "riminder-js-sdk": "0.0.1"
+  }
+}
